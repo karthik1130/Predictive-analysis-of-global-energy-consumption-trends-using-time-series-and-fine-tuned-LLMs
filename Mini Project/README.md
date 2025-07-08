@@ -1,3 +1,3 @@
 # Mini-Project
 
-📄 [Read the User Manual](/Project.pdf)
+📄 [Read the Project Description](initial results/Project Description.pdf)
