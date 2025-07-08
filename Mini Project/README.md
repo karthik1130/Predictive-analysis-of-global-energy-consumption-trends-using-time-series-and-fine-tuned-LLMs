@@ -1,3 +1,3 @@
-# Mini-Project
+# Project
 
-📄 [Read the Project Description](initial results/Project Description.pdf)
+[Read the Project Description](<Mini Project/Initial Results/Project Description.pdf>)
